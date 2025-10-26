@@ -7,6 +7,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 
+## [LINK-DEMO](https://drive.google.com/file/d/1flCV_qh-f9VoW5ckOUTlM498IVjuWAIF/view?usp=drive_link)
+
 ## 📱 Tổng Quan Sản Phẩm
 
 SoftSkillz là nền tảng giáo dục toàn diện được thiết kế để cách mạng hóa cách mọi người học và phát triển các kỹ năng mềm thiết yếu. Nền tảng kết nối liền mạch giữa người học, giảng viên và quản trị viên trong một hệ sinh thái số thống nhất, giúp việc học kỹ năng mềm trở nên hấp dẫn, tương tác và dễ tiếp cận với mọi người.
@@ -253,8 +255,6 @@ SoftSkillz cam kết thúc đẩy phát triển kỹ năng mềm và chuẩn b�
 - **Truyền Cảm Hứng** cho sự phát triển cá nhân và nghề nghiệp
 - **Kết Nối** người học với cơ hội thực hành kỹ năng trong đời sống thực
 - **Đo Lường** tác động của giáo dục kỹ năng mềm đến hành vi thực tế
-
-## 📜 Scripts Hữu Ích
 
 ### Mobile App (apps/)
 ```bash
